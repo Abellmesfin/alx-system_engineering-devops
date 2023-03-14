@@ -1,1 +1,1 @@
-the PATH. /action should be the last directory the shell looks into when looking for a program.
+Task 1 of my 0x03 shell project
