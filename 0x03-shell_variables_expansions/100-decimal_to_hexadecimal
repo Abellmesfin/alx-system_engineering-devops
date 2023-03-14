@@ -1,2 +1,2 @@
 #!/bin/bash
-hexnum=$(printf "%*\n" $decimalnum) echo "hexadecimal value:$hexnum"
+printf "%*\n" $decimal
