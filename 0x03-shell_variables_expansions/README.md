@@ -1,1 +1,1 @@
-Hello You project
+the PATH. /action should be the last directory the shell looks into when looking for a program.
